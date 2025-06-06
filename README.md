@@ -41,6 +41,7 @@ The dataset contains customer-level information. Features include:
 ```
 
 CustomerSegmentation (2).ipynb  # Main notebook with all analysis
+Customers.csv                   # Customers Dataset
 README.md                      # Project documentation
 
 ````
