@@ -1,4 +1,3 @@
-```markdown
 # Customer Segmentation using K-Means Clustering
 
 This project focuses on customer segmentation by applying unsupervised machine learning techniques, particularly **K-Means Clustering**. The goal is to group customers based on their behaviors and characteristics to support targeted marketing, customer retention, and business strategy.
